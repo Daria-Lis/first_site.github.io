@@ -1,0 +1,81 @@
+@media screen and (min-width: 320px) and (max-width: 767px) {
+	.banner {
+		min-height: 300px;
+	}
+	.form_banner button {
+	width: 150px;
+	height: 50px;
+	text-align: center;
+	}
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+	.content-1 h2 {
+		min-height: 300px;
+		text-align: center;
+	}
+	
+}
+
+@media screen and (max-width: 767px) {
+	.tabs {
+		padding: 0;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.properties {
+		text-align: center;
+		padding: 0;
+		}
+	.form_properties button {
+	width: 150px;
+	height: 50px;	
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.buyers {
+		text-align: center;
+		padding: 0;
+		}
+	.form_buyers button {
+	width: 150px;
+	height: 50px;	
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.featured_projects {
+		padding: 0;
+		text-align: center;
+	}
+	.form_featured button {
+	width: 150px;
+	height: 50px;	
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.project_1.project_2.project_3 {
+		padding: 0;
+	}
+
+	.last_button button {
+	width: 160px;
+	height: 25px;	
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.slider_item {
+		padding: 0;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.icons {
+		padding: 0;
+		max-width: 300px;
+	}
+}
